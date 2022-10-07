@@ -1,0 +1,48 @@
+.main {
+  width: 800px;
+  min-height: 560px;
+  float: left;
+}
+
+.header {
+  width: 800px;
+  min-height: 75px;
+  background: #fcd200;
+  float: left;
+}
+
+.center {
+  width: 800px;
+  min-height: 440px;
+  float: left;
+  margin: 10px 0px;
+}
+
+.footer {
+  width: 800px;
+  min-height: 75px;
+  background: #fcd200;
+  float: left;
+}
+
+.Nav {
+  width: 180px;
+  min-height: inherit;
+  background: #fcd200;
+  float: left;
+}
+
+.centerinside {
+  width: 470px;
+  min-height: inherit;
+  background: #fcd200;
+  float: left;
+  margin: 0 10px;
+}
+
+.rightedge {
+  width: 130px;
+  min-height: inherit;
+  background: #fcd200;
+  float: left;
+}
